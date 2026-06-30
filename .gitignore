@@ -1,0 +1,16 @@
+# Arquivos temporários do SQL Server Management Studio / Azure Data Studio
+*.bak
+*.mdf
+*.ldf
+*.ndf
+*.sqlsuo
+*.user
+
+# Pastas de configuração de IDE
+.vs/
+.vscode/
+
+# Arquivos do sistema operacional
+Thumbs.db
+Desktop.ini
+.DS_Store
